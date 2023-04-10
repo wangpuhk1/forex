@@ -1,0 +1,2 @@
+# forex
+gbpusd daily data
