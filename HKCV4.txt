@@ -1,0 +1,73 @@
+Part      Value         Device        Package              Description                                                 
+C1        10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C2        .1 uF 50v     C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C3        22 uF 10v     C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C4        .1 uF 50v     C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C5        47 nF 50v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C6        1 uF 50v      C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C7        1 uF 10v      C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C8        10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C9        4.7 uF 10v    C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C10       1 uF 10v      C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C11       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C12       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C13       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C14       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C15       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C16       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C17       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C18       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C19       22 uF 10v     C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C20       22 uF 10v     C-USC0603K    C0603K               CAPACITOR, American symbol                                  
+C21       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C22       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C23       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C24       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C25       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C26       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C27       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C28       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C29       10 uF 50v     C-USC1206K    C1206K               CAPACITOR, American symbol                                  
+C31       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C32       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C33       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C34       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+C41       .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+CHOKE     600r          INDUCTOR0603  0603                 Inductors                                                   
+D1        500 mA 60v    DIODE-SOD123  SOD123               DIODE                                                       
+L1        22uH          SDR0302       SDR0302              POWER INDUCTOR                                              
+LDFM33PUR LDFM          LDFM          DFN6-3X3                                                                         
+LED1      G             LED0603       LED-0603             LEDs                                                        
+LED2      G             LED0603       LED-0603             LEDs                                                        
+MC1       1 uF 10v      C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+PROG      SM07B-SRSS-TB SM07B-SRSS-TB SM07B-SRSS-TB        Disconnectable Crimp style connector, 1.0mm pitch7 contacts 
+Q1        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+Q2        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+Q3        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+Q4        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+Q5        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+Q6        TPH           TPH           TRANS_TPH5900CNH,L1Q                                                             
+R1        54.9k 1%      R-US_R0402    R0402                RESISTOR, American symbol                                   
+R2        10k 1%        R-US_R0402    R0402                RESISTOR, American symbol                                   
+R3        10k           R-US_R0402    R0402                RESISTOR, American symbol                                   
+R4        10k           R-US_R0402    R0402                RESISTOR, American symbol                                   
+R5        200           R-US_R0402    R0402                RESISTOR, American symbol                                   
+R6        .001          R-US_R1210    R1210                RESISTOR, American symbol                                   
+R7        .001          R-US_R1210    R1210                RESISTOR, American symbol                                   
+R22       200           R-US_R0402    R0402                RESISTOR, American symbol                                   
+R26       150k 1%       R-US_R0402    R0402                RESISTOR, American symbol                                   
+R27       10k 1%        R-US_R0402    R0402                RESISTOR, American symbol                                   
+U$1       DRV8323RH     DRV8323RH     QFN50P700X700X90-49N                                                             
+U$2       18_AWG_PAD    18_AWG_PAD    18_AWG_PAD                                                                       
+U$3       STM32F446RET6 STM32F446RET6 TQFP64               ARM DSP Chip used on the WAV Trigger board.                 
+U$4       18_AWG_PAD    18_AWG_PAD    18_AWG_PAD                                                                       
+U$5       18_AWG_PAD    18_AWG_PAD    18_AWG_PAD                                                                       
+U$6       MCP2542       MCP2542       TDFN                                                                             
+U$8       3-PIN         3-PIN         M80-8430342                                                                      
+U$9       XT30          XT30          XT30_HORIZONTAL                                                                  
+U$11      MA700         MA700         QFN16                                                                            
+VREFCAP   .1 uF 10v     C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+XT1       CSTCE         CSTCE         CSTCE                                                                            
+YCAP1     dnp           C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+YCAP2     dnp           C-USC0402K    C0402K               CAPACITOR, American symbol                                  
+YCAP3     dnp           C-USC0402K    C0402K               CAPACITOR, American symbol                                  
